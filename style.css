@@ -1,0 +1,10 @@
+p {
+    font-family: Arial;
+    color: purple;
+}
+.rtl {
+    direction: rtl;
+}
+.center {
+    text-align: center;
+}
